@@ -7,3 +7,6 @@ def g(x):
 
 def phi(x):
     return x**3
+
+def psi(x):
+    return x**x
