@@ -4,3 +4,6 @@ def f(x):
 
 def g(x):
     return f(f(x))
+
+def phi(x):
+    return x**3
